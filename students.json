@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "name": "kesav",
+        "age": "22",
+        "course": "B.Tech"
+    },
+    {
+        "name": "surya ",
+        "age": "22",
+        "course": "B.Tech."
+    }
+]
